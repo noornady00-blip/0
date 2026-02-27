@@ -1090,6 +1090,8 @@ img {
     .hero-image-container {
         order: 1;
         margin-bottom: 2rem;
+        position: relative;
+        top: 40px;
     }
 
     .hero-buttons {
@@ -1187,3 +1189,4 @@ img {
         font-size: 0.85rem;
     }
 }
+
